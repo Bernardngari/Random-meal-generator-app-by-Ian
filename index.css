@@ -1,0 +1,8 @@
+#loadMoreMeals{
+  position: absolute;
+  top: 280px;
+  left: 300px;
+  background: black;
+  border-radius: 30px;
+  color: white;
+}
